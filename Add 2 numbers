@@ -3,7 +3,7 @@ Int main()
 {
 Float f1,f2,sum;
 Printf("enter values for f1 and f2\n");
-Scanf("%f,%f",&f1,&f2");
+Scanf("%f,%f",&f1,&f2);
 Sum=f1+f2;
 Printf("sum=%f",sum);
 return 0;
